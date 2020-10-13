@@ -9,7 +9,7 @@
 	<properties>
 		<jbehave.version>4.3.5</jbehave.version>
 		<jbehave.site.version>3.3.1</jbehave.site.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
